@@ -41,7 +41,6 @@ a:hover {
 	padding: 20px;
 	display: flex;
 	align-items: center;
-	/*position: relative;*/
 	margin-bottom: 50px;
 	transition-duration: 1s;
 }
@@ -169,7 +168,6 @@ p{
 table {
   border-collapse: collapse;
   width: 100%;
-  /*border: 1px solid black;*/
   background-color: beige;
   margin-top: 50px;
  
