@@ -349,7 +349,7 @@ footer.contacto{
     display: grid;
     grid-template-areas: 
     "nav header header"
-    "nav productos publicidad"
+    "nav productos logo"
     "footer footer footer";
     grid-template-rows: 100px 1fr 1fr 75px;
     grid-template-columns: 20% auto 15%;
@@ -375,8 +375,8 @@ nav {
     grid-area: nav;
 }
 
-aside {
-    grid-area: publicidad;
+imagen {
+    grid-area: logo;
 }
 
 .grid-item {
@@ -394,13 +394,5 @@ img{
 
 }
 
-aside img{
-	border-radius: 5px;
-}
-
-
-footer img{
-	border-radius: 30px;
-}
 	
 
