@@ -394,5 +394,10 @@ img{
 
 }
 
-	
+.carousel-inner img {
+    width: 40%;
+    height: 40%;
+	border-radius: 30px;
+
+  }	
 
